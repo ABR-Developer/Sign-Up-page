@@ -2,8 +2,15 @@
     <string name="app_name">Sign Up Page</string>
     <string name="First_name">First Name</string>
     <string name="Last_name">Last Name</string>
-    <string name="E_mail">E_mail</string>
+    <string name="E_mail">E mail</string>
     <string name="Password">Password</string>
     <string name="Confirm_Password">Confirm Password</string>
     <string name="Title">Google</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="enter_your_g_mail">Enter Your G-mail</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="re_enter_passowrd">Re-enter Passowrd</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_your_mail">Enter Your Mail</string>
+    <string name="Sign_Up">Sign Up</string>
 </resources>
